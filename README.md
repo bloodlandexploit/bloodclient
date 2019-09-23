@@ -5,4 +5,5 @@ https://t.me/llIlIIlIIllIllIIlIllIl
 https://t.me/H4CK_B100D
 
 ## 설명
-Python 3.7로 제작, getcode부분이 핵심이지만 이 부분만 제외하고 
+Python 3.7로 제작, getcode부분이 핵심이지만 이 부분만 제외하고 업로드함
+
